@@ -5,7 +5,7 @@ In the demo, investing decisions are FULLY decided by quantatitive methods, yet 
 # Platform
 The experiment is done on investopedia trade simulator. This is easy to find on website.
 
-#Plan
+# Plan
 -1 Upload all the models in one file.
 -2 Use web scrapping to get the data including stock fundamentals and news.
 -3 Use prediction models to build portfolio.
